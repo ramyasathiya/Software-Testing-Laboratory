@@ -26,16 +26,12 @@ def display():
       start=int(start) 
       end=int(end) 
       print(start,end=‘ ‘) 
-    ```
     if start<end: 
       start+=1 
-    ```
     else: 
       break 
-```
   else: 
     print("Enter a valid positive number.")
-```
 display()
 
 
