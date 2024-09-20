@@ -32,6 +32,7 @@ def display():
   else: 
     print("Enter a valid positive number.")
 display()
+```
 
 
 ii)WHILE...DO 
@@ -46,6 +47,7 @@ if start.isnumeric() and end.isnumeric():
     start+=1 
 else: 
 print("Enter a valid positive number.")
+```
 
 
 iii) SWITCH
@@ -59,6 +61,7 @@ def switch():
   except ValueError: 
     print("Enter a valid number.") 
 switch()
+```
 
 iv)IF ELSE
 ```
@@ -76,6 +79,7 @@ def compare():
       print("A is equal to B") 
   except ValueError: 
     print(“Enter a valid number.”)
+```
 
 v) FOR
 ```
@@ -84,7 +88,7 @@ def iterate():
   for i in string: 
     print(ord(i),end=" ") 
 iterate()
-
+```
 
 
 
