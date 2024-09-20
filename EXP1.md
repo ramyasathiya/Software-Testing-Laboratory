@@ -19,7 +19,6 @@ i)DO...WHILE
 def display(): 
   start=input("Enter a positive value for START: ") 
   end=input("Enter a positive value for END: ") 
-  ```
   if start.isnumeric() and end.isnumeric():
     while True: 
       start=int(start) 
