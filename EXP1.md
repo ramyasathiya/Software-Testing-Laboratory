@@ -19,18 +19,23 @@ i)DO...WHILE
 def display(): 
   start=input("Enter a positive value for START: ") 
   end=input("Enter a positive value for END: ") 
-  if start.isnumeric() and end.isnumeric(): 
+  ```
+  if start.isnumeric() and end.isnumeric():
+  ```
     while True: 
       start=int(start) 
       end=int(end) 
       print(start,end=‘ ‘) 
+    ```
     if start<end: 
       start+=1 
+    ```
     else: 
       break 
-
+```
   else: 
-    print("Enter a valid positive number.") 
+    print("Enter a valid positive number.")
+```
 display()
 
 
