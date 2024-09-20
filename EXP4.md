@@ -37,6 +37,7 @@ else:
 
 ### Output:
 
+![exp4 STL](https://github.com/user-attachments/assets/e2a7d241-4dc0-48ac-ac68-d733988d4121)
 
 
 ### Result:
