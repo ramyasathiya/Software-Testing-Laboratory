@@ -61,8 +61,8 @@ else:
 
 ### Output:
 
-
 ![exp2(STL)](https://github.com/user-attachments/assets/5a7b7657-7fe9-4a11-a4a4-6284cbf1047b)
+![exp 2(STL)2 1](https://github.com/user-attachments/assets/65238319-19d3-4188-ba32-23cf964458e4)
 
 
 ### Result:
