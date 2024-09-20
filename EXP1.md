@@ -93,12 +93,21 @@ iterate()
 
 
 ### Output:
+i)DO...WHILE 
 ![exp1 (STL 1)](https://github.com/user-attachments/assets/24ce04fa-18c8-4e8a-975e-4d951162f35a)
 ![exp1 (STL 1)](https://github.com/user-attachments/assets/b9fa9568-5607-422a-a698-c4a39193f59d)
+
+ii)WHILE...DO 
 ![exp1(stl 2 1)](https://github.com/user-attachments/assets/fe0164eb-4a86-4482-a247-8aadf3fbd29e)
 ![exp1(STL 2 2)](https://github.com/user-attachments/assets/70c11a9e-84bc-4736-ad44-188b501efa8d)
+
+iii) SWITCH
 ![exp1(STL)3](https://github.com/user-attachments/assets/3f421779-28c6-413c-9fd7-ea38bdcc53b7)
+
+iv)IF ELSE
 ![exp1(STL)4](https://github.com/user-attachments/assets/fcb314ba-0906-4d82-beff-8b33aae98560)
+
+v) FOR
 ![exp1(STL)5](https://github.com/user-attachments/assets/6d760026-c507-48b7-93b8-7a6405349771)
 
 
