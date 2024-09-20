@@ -16,6 +16,7 @@ Cases
 ### Program:
 i)DO...WHILE 
 
+```
 def display(): 
   start=input("Enter a positive value for START: ") 
   end=input("Enter a positive value for END: ") 
@@ -34,7 +35,7 @@ display()
 
 
 ii)WHILE...DO 
-
+```
 start=input("Enter a positive value for START: ") 
 end=input("Enter a positive value for END: ") 
 if start.isnumeric() and end.isnumeric(): 
@@ -46,8 +47,9 @@ if start.isnumeric() and end.isnumeric():
 else: 
 print("Enter a valid positive number.")
 
-iii) SWITCH
 
+iii) SWITCH
+```
 def switch(): 
   switcher={ 0:"even", 1:"odd" } 
   n=input('Enter a value for N: ')
@@ -59,7 +61,7 @@ def switch():
 switch()
 
 iv)IF ELSE
-
+```
 def compare(): 
   a=input("Enter a value for A: ") 
   b=input("Enter a value for B: ") 
@@ -76,7 +78,7 @@ def compare():
     print(“Enter a valid number.”)
 
 v) FOR
-
+```
 def iterate(): 
   string=input("Enter a string: ") 
   for i in string: 
