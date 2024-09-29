@@ -31,7 +31,7 @@ for i in s:
       print("The given string is a palindrome") 
     else: 
       print("The given string is not a palindrome")
-
+```
 
 
 ### Output:
