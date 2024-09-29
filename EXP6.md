@@ -27,10 +27,10 @@ for i in s:
   if(c==0): 
     print("Enter a valid string") 
     answer = Palindrome(s) 
-  if(answer == True): 
-    print("The given string is a palindrome") 
-  else: 
-    print("The given string is not a palindrome")
+    if(answer == True): 
+      print("The given string is a palindrome") 
+    else: 
+      print("The given string is not a palindrome")
 
 
 
