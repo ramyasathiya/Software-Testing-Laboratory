@@ -34,6 +34,7 @@ assert fibR(6) == 7
 
 ### Output:
 
+![image](https://github.com/user-attachments/assets/039afe06-c641-4ea1-ad65-90ea4405c247)
 
 
 
