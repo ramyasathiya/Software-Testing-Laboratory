@@ -56,7 +56,4 @@ def test_sum_of_digits_negative():
 ### Result:
 Thus, the python program for sum of digits is tested using pytest and executed and output is verified successfully.
 
-Thus, the python program for sum of digits is tested using pytest and executed and
-output is verified successfully.
-Thus, the python program for sum of digits is tested using pytest and executed and output is verified successfully.
 
