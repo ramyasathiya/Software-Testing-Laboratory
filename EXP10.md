@@ -1,6 +1,6 @@
-# Ex.No: 14  Pytest Python program for Fibonacci Series
+# Ex.No: 10  Pytest Python program for Fibonacci Series
 
-### DATE: 5-11-24                                                                          
+### DATE: 6-10-24                                                                          
 ### REGISTER NUMBER : 212222040130
 ### AIM: To write a python program for Fibonacci Series and generate test cases using Pytest. 
 
